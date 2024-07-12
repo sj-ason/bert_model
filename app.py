@@ -1,10 +1,4 @@
 import streamlit as st
-import torch
-import pickle
-from transformers import BertTokenizer, BertForSequenceClassification
-import lime
-import lime.lime_text
-import numpy as np
 
 # Load the model and tokenizer
 model_path = 'bert_model.pkl'
