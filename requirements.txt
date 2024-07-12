@@ -1,4 +1,5 @@
 torch
 pickle
-BertTokenizer, BertForSequenceClassification
+BertTokenizer
+BertForSequenceClassification
 lime
