@@ -1,0 +1,262 @@
+headline,firm,work_life_balance,culture_values,diversity_inclusion,career_opp,comp_benefits,senior_mgmt,predicted_sentiment,labeled_keywords,average_predicted_sentiment
+peopl make destroy place,AFH-Wealth-Management,1,3,1,1,2,2,0,destroy ##op place make ##l,bad
+low salari,AFH-Wealth-Management,3,1,2,1,1,1,1,sala ##ri low,bad
+good,AFH-Wealth-Management,3,3,4,4,4,2,3,good,good
+terribl avoid like plagu,AFH-Wealth-Management,1,2,1,1,1,1,0,##rib ##l avoid like pla,bad
+steer clear,AFH-Wealth-Management,1,1,1,1,1,1,4,clear ##er ste,good
+mortgag advisor,AFH-Wealth-Management,5,5,5,5,4,5,3,##ga ##g advisor mort,good
+nice offic,AJ-Bell,3,3,3,4,3,3,3,off ##ic nice,good
+good job aw peopl,AJ-Bell,4,1,1,1,5,3,3,job pe ##op aw ##l,good
+shini offic cannot hide rotten cultur,AJ-Bell,3,1,1,2,2,1,0,hide cult ##i rotten ##ic,bad
+great place work,AJ-Bell,5,5,5,5,3,5,4,place work great,good
+run,AJ-Bell,3,2,1,3,2,1,3,run,good
+lot progress secur industri work home,AJ-Bell,4,5,4,5,3,4,3,home sec work industri progress,good
+aj hell,AJ-Bell,4,2,2,2,2,1,4,hell aj,good
+promot grow organis great colleagu,AJ-Bell,5,5,4,5,4,5,4,colle organi grow great ##t,good
+con pro,AJ-Bell,1,1,4,1,3,1,4,pro con,good
+aj hell,AJ-Bell,5,1,4,3,1,1,4,hell aj,good
+good experi,AJ-Bell,3,4,5,4,3,3,3,ex ##peri good,good
+good career decis,AJ-Bell,4,5,4,4,3,5,3,##is career dec good,good
+aj hell thing know join,AJ-Bell,1,1,1,1,1,1,4,join hell thing know aj,good
+work hard thank,AJ-Bell,1,1,1,1,5,1,3,thank hard work,good
+dont bother senior manag clown,AJ-Bell,1,1,1,1,1,1,0,both mana senior ##g ##er,bad
+realli great place work,AJ-Bell,5,5,5,4,4,5,4,##li work place great real,good
+great place start build career,AJ-Bell,5,4,3,5,3,4,4,place career build start great,good
+busi excit,AJ-Bell,4,4,3,4,4,4,0,##cit ex ##i bus,bad
+great compani,AJ-Bell,4,5,5,4,4,5,4,comp ##ani great,good
+homework compani,AJ-Bell,1,2,2,2,1,1,3,##work ##ani comp home,good
+great support cultur,AJ-Bell,3,4,3,5,3,4,4,support ##ur cult great,good
+ok starter job,AJ-Bell,4,4,5,2,1,3,3,starter job ok,good
+averag place work,AJ-Bell,1,3,3,2,1,1,3,##ag work place aver,good
+amaz compani work,AJ-Bell,5,5,5,5,4,5,4,##z comp work ##ani ama,good
+mix bag,AJ-Bell,3,4,2,4,2,2,3,bag mix,good
+good,AJ-Bell,1,1,1,1,1,1,3,good,good
+progress,AJ-Bell,2,2,3,2,2,2,4,progress,good
+well paid good environ,ALDI,5,4,4,5,4,3,4,paid environ good well,good
+good pay hard work,ALDI,3,4,5,5,4,4,3,pay work hard good,good
+famili,ALDI,5,5,5,5,5,5,4,famili,good
+bad thought,ALDI,5,5,5,5,5,5,0,thought bad,bad
+great peopl bad environ,ALDI,1,3,5,3,2,1,0,pe environ ##op bad ##l,bad
+good overal,ALDI,4,3,4,4,4,4,3,over ##al good,good
+,ALDI,1,1,1,1,1,1,3,,good
+great job,ALDI,3,5,5,5,5,5,4,job great,good
+good place work,ALDI,3,4,3,3,2,4,3,place work good,good
+aldi,ALDI,1,2,2,2,2,2,4,##di al,good
+great tire,ALDI,3,3,3,2,2,3,4,tire great,good
+role well paid,ALDI,5,5,5,5,5,5,4,well paid role,good
+deputi manag run store,ALDI,1,1,1,1,1,1,4,##g store run ##put ##i,good
+well paid work hard,ALDI,3,3,2,1,5,2,4,paid work hard well,good
+good place,ALDI,1,2,2,3,3,2,3,place good,good
+good money number,ALDI,3,4,5,4,4,4,3,money number good,good
+good pay,ALDI,1,4,5,4,4,3,3,pay good,good
+great start expect much,ALDI,1,3,5,2,2,1,4,much ex ##pect start great,good
+physic fast pace time goe fast,ALDI,2,2,3,3,3,1,3,pace fast go ##ic fast,good
+hour,ALDI,5,5,5,5,5,5,4,hour,good
+good compani great benefit,ALDI,3,4,4,3,5,4,4,comp great benefit ##ani good,good
+good pay,ALDI,1,3,3,4,4,3,3,pay good,good
+good,ALDI,2,3,3,4,5,4,3,good,good
+everyday differ also familiar routin,ALDI,3,4,5,4,4,4,3,familiar ro differ ##n also,good
+poor progress,ALDI,1,2,2,1,2,1,0,progress poor,bad
+good comani,ALDI,4,4,3,4,2,4,3,coma ##ni good,good
+aldi,ALDI,4,4,5,4,4,4,4,##di al,good
+great pay hard work,ALDI,1,3,3,4,3,4,4,work pay hard great,good
+intens reward,ALDI,3,4,4,4,5,4,4,##ns reward inte,good
+challeng reward,ALDI,1,2,1,3,3,1,4,##llen reward ##g cha,good
+amaz,ALDI,5,5,5,5,5,5,4,##z ama,good
+great place work,ALDI,4,5,5,5,5,5,4,place work great,good
+aldi shelf stacker,ALDI,3,4,3,4,3,3,3,##di she ##lf stack ##er,good
+pay well everyth els bad,ALDI,1,3,3,1,3,1,4,well ##th els every bad,good
+good money,ALDI,2,4,5,5,4,3,3,money good,good
+terribl workplac dirti disorganis,ALDI,3,1,1,1,2,1,0,##rib ##l dis work ##org,bad
+work,ALDI,1,1,1,1,1,1,3,work,good
+great place work,ALDI,5,5,5,5,5,5,4,place work great,good
+good place work,ALDI,3,4,3,4,5,4,3,place work good,good
+sound,ALDI,1,5,5,1,5,5,3,sound,good
+enough care staff poor work life balanc,ALDI,1,1,5,2,4,2,1,work care poor ##nc bala,bad
+great team,ALDI,5,4,4,2,3,3,4,team great,good
+work life balanc,ALDI,1,3,2,2,5,1,3,life ##nc bala work,good
+aldi custom assist,ALDI,3,4,5,4,4,3,4,assist ##di custom al,good
+great,ALDI,2,4,3,4,3,3,4,great,good
+aldi review,ALDI,5,5,5,5,5,5,3,##di review al,good
+best employe,ALDI,5,5,5,5,5,5,4,employe best,good
+aldi,ALDI,1,3,2,3,1,3,4,##di al,good
+great place work,ALDI,3,5,5,5,5,5,4,place work great,good
+physic hard work,ALDI,5,4,5,4,3,5,1,work hard ##ic phys,bad
+hard work,ALDI,3,1,2,3,3,4,1,work hard,bad
+hard work pay well,ALDI,3,4,3,4,3,4,4,work well pay hard,good
+aldi,ALDI,3,4,4,2,4,4,4,##di al,good
+nice,ALDI,2,3,3,2,2,2,3,nice,good
+stress,ALDI,2,3,3,3,3,2,0,stress,bad
+deputi manag,ALDI,5,5,5,2,3,5,4,##put ##g mana ##i de,good
+fantast compani,ALDI,3,5,5,5,5,5,0,##ast comp ##ani fant,bad
+placement scheme review,ALDI,1,1,1,3,3,1,3,scheme review placement,good
+excel compani work,ALDI,5,5,5,5,5,5,4,comp work ##ani excel,good
+brilliant compani great place work,ALDI,5,4,5,5,4,5,4,comp work great place ##ani,good
+good compani,ALDI,2,3,3,3,4,3,3,comp ##ani good,good
+great compani work,ALDI,3,4,4,4,4,4,4,comp work ##ani great,good
+great compani,ALDI,5,5,5,4,5,5,4,comp ##ani great,good
+review,ALDI,2,2,2,3,2,1,3,review,good
+amaz,ALDI,2,3,5,3,4,5,4,##z ama,good
+overal good easi work,ALDI,5,5,5,3,4,5,3,##al ea good ##si work,good
+good your offic great friend manag,ALDI,3,2,4,2,1,2,4,your off ##g friend mana,good
+night,ALDI,5,5,5,5,5,5,4,night,good
+good place work,ALDI,2,3,3,4,4,4,3,place work good,good
+good money anoth number,ALDI,2,3,4,2,3,2,3,number money ##th ano good,good
+good,ALDI,3,5,5,5,5,5,3,good,good
+top heavi middl manag,ALDI,2,3,3,3,3,2,4,he mana ##g mid ##dl,good
+sale assist,ALDI,2,5,5,4,3,5,4,assist sale,good
+hard work,ALDI,2,3,5,4,4,5,1,work hard,bad
+comment,ALDI,1,1,1,1,1,1,3,comment,good
+great compani work demand,ALDI,4,5,5,5,4,5,4,comp demand work ##ani great,good
+best best,ALDI,5,5,5,5,5,5,4,best best,good
+great compani,ALDI,4,4,5,4,5,3,4,comp ##ani great,good
+good pay shock worklif balanc,ALDI,1,3,3,4,1,1,3,##lif pay shock ##nc work,good
+success compani hard see,ALDI,1,1,2,3,3,1,4,comp see hard ##ani success,good
+good bit,ALDI,1,3,3,5,5,3,3,bit good,good
+worst compani ever work,ALDI,1,1,1,1,1,1,0,comp work ##ani ever worst,bad
+great employ,ALDI,4,5,5,5,5,5,4,em ##ploy great,good
+great compani work,ALDI,4,5,5,5,5,5,4,comp work ##ani great,good
+work life balanc,ALDI,1,2,5,4,3,5,3,life ##nc bala work,good
+vile treatment,ALDI,1,1,1,1,1,1,0,treatment vile,bad
+pay well,ALDI,3,4,3,4,4,4,4,well pay,good
+amaz,ALDI,3,3,3,2,2,3,4,##z ama,good
+good compani,ALDI,3,3,4,3,3,4,3,comp ##ani good,good
+fantast,ALDI,4,4,4,4,4,4,4,##ast fant,good
+good job,ALDI,3,4,4,1,4,5,3,job good,good
+good,ALDI,5,5,5,5,5,5,3,good,good
+hard work good peopl decent pay,ALDI,2,4,5,3,3,4,3,pe work good ##ent ##op,good
+avoid,ALDI,1,1,1,1,1,1,0,avoid,bad
+tough environ much work life balanc,ALDI,1,1,2,1,3,1,3,much work environ life bala,good
+hour day,ALDI,4,4,5,5,5,5,3,day hour,good
+great compani great peopl,ALDI,5,5,5,5,5,5,4,comp pe ##op great ##ani,good
+great,ALDI,5,4,3,5,4,5,4,great,good
+good compani,ALDI,5,4,4,2,5,4,3,comp ##ani good,good
+good pay hard work,ALDI,3,4,2,3,4,1,3,pay work hard good,good
+best compani ive work,ALDI,5,5,5,5,5,5,4,comp ##e iv work ##ani,good
+work like dog littl reward hard work section leader next noth,ALDI,3,3,3,1,3,1,4,like hard not dog work,good
+privat own like famili busi,ALDI,2,3,1,1,3,1,4,famili own like bus privat,good
+horrend driven end,ALDI,1,1,2,4,1,1,0,##d driven end horren,bad
+great compani work,ALDI,5,5,5,5,5,5,4,comp work ##ani great,good
+good hard,ALDI,1,4,4,3,5,2,3,hard good,good
+good room thinkinh,ALDI,2,5,3,4,5,2,3,##h room ##in think good,good
+section leader poor chill,ALDI,1,1,1,1,1,1,0,chi poor leader ##ll section,bad
+great place work time,ALDI,5,5,5,5,5,5,4,place work time great,good
+store manag,ALDI,2,3,4,2,4,3,4,mana ##g store,good
+poor leadership,ALDI,1,1,1,1,1,1,0,leadership poor,bad
+deputi store manag,ALDI,3,4,4,4,3,3,4,mana ##i ##put store ##g,good
+good place work overal demand,ALDI,4,5,5,5,5,3,3,demand ##al place over work,good
+aldi,ALDI,2,4,4,4,4,4,4,##di al,good
+good,ALDI,5,4,4,2,4,3,3,good,good
+aldi,ALDI,3,4,5,4,5,4,4,##di al,good
+good place work,ALDI,5,4,5,5,5,5,3,place work good,good
+good like work hard although standard high sometim,ALDI,3,3,4,3,3,3,3,standard ##tim like although work,good
+store assist,ALDI,4,5,5,5,5,5,4,assist store,good
+great work,ALDI,3,5,5,5,5,5,4,work great,good
+good work good pay,ALDI,3,3,3,2,2,3,3,work good pay good,good
+aw place work,ALDI,1,1,1,1,1,1,4,place work aw,good
+good hourli rate unsoci hour,ALDI,1,1,5,3,2,2,3,##oci hour uns hour rate,good
+hard work reward,ALDI,4,5,5,4,4,4,3,work reward hard,good
+great,ALDI,5,5,5,5,5,5,4,great,good
+say tin,ALDI,2,2,2,4,5,1,0,tin say,bad
+good place work look stabil,ALDI,5,3,3,3,3,3,3,place stabil look work good,good
+your afraid hard work enjoy make good friend work togeth could place,ALDI,3,4,5,3,4,4,3,afraid place make work enjoy,good
+overwork undervalu,ALDI,2,3,3,2,3,1,1,##work under ##val ##u over,bad
+hard work reward,ALDI,2,3,3,5,5,3,3,work reward hard,good
+fair,ALDI,3,3,1,2,5,3,3,fair,good
+worst job ive ever,ALDI,1,1,1,1,1,1,0,job iv ever ##e worst,bad
+great compani work,ALDI,5,5,5,5,5,5,4,comp work ##ani great,good
+amaz,ALDI,5,5,5,5,5,5,4,##z ama,good
+avoid possibl,ALDI,1,1,1,3,2,1,0,pos ##si ##bl avoid,bad
+good pay poor manag,ALDI,1,2,4,2,2,3,3,mana pay poor ##g good,good
+male domin hierarchi sexist compani,ALDI,2,1,1,1,2,1,0,domi comp ##ist ##n hier,bad
+cleaner,ALDI,5,3,3,5,5,2,4,##er clean,good
+great,ALDI,3,5,5,5,5,5,4,great,good
+,ALDI,2,3,3,1,4,3,3,,good
+poor,ALDI,1,2,1,1,4,3,0,poor,bad
+excel salari,ALDI,3,2,1,3,2,3,4,sala ##ri excel,good
+bad,ALDI,1,1,1,1,1,1,0,bad,bad
+rubbish,ALDI,4,2,4,1,1,3,0,##bbi ##sh ru,bad
+bad,ALDI,3,3,4,4,3,3,0,bad,bad
+great role right person,ALDI,4,5,5,5,5,5,4,person role right great,good
+aldi asm,ALDI,2,3,5,5,5,3,4,##di as ##m al,good
+great compani,ALDI,4,5,5,2,5,4,4,comp ##ani great,good
+aldi,ALDI,4,3,4,3,4,2,4,##di al,good
+great place work,ALDI,5,5,5,5,5,5,4,place work great,good
+market lead salari vari role,ALDI,1,2,2,3,3,3,3,role sala vari lead ##ri,good
+aldi,ALDI,2,3,5,5,4,4,4,##di al,good
+great compani work,ALDI,3,4,5,5,4,4,4,comp work ##ani great,good
+total lack support work bone,ALDI,1,1,2,3,5,1,0,lack bone support work total,bad
+good compani,ALDI,5,5,5,5,5,5,3,comp ##ani good,good
+bad short period,ALDI,2,1,1,2,1,1,0,short period bad,bad
+great place work,ALDI,4,5,5,5,5,5,4,place work great,good
+input output,ALDI,3,5,3,3,5,4,3,output input,good
+aw,ALDI,1,1,3,1,1,1,3,aw,good
+bathgat rdc,ALDI,3,3,2,3,4,2,3,rd ##gat ##c bath,good
+hard work great benefit,ALDI,3,4,4,4,3,3,4,work benefit great hard,good
+aldi experi,ALDI,2,3,5,5,4,3,4,##peri ##di ex al,good
+good job,ALDI,3,3,5,3,2,4,3,job good,good
+best compani,ALDI,5,5,5,5,5,5,4,comp ##ani best,good
+horribl,ALDI,1,2,3,1,2,1,0,##rib ##l hor,bad
+fast pace job,ALDI,2,5,4,2,2,4,4,pace job fast,good
+wors job ever,ALDI,1,1,1,1,1,1,4,job ##rs ever wo,good
+great compani,ALDI,3,5,5,4,4,4,4,comp ##ani great,good
+sale,ALDI,3,3,3,3,3,3,4,sale,good
+progress,ALDI,1,1,1,1,1,1,4,progress,good
+heavi workload,ALDI,1,1,2,1,2,1,3,work ##avi ##load he,good
+champion peopl,ALDI,5,5,5,5,5,5,4,pe ##op ##l champion,good
+good rate pay time earn,ALDI,3,4,4,4,4,4,3,time rate earn pay good,good
+great work place,ALDI,4,5,5,5,5,5,4,work place great,good
+find elsewher,ALDI,1,1,5,3,3,1,0,else ##w ##her find,bad
+good other,ALDI,2,3,4,2,3,2,3,other good,good
+aldi doesnt pay employe,ALDI,1,2,2,1,2,1,0,##t pay ##di employe doesn,bad
+bad,ALDI,2,4,5,5,3,5,0,bad,bad
+pro,ALDI,1,5,5,5,5,1,4,pro,good
+toxic environ,ALDI,1,1,1,1,5,1,0,environ toxic,bad
+good,ALDI,3,3,3,3,3,3,3,good,good
+great,ALDI,2,1,3,3,1,1,4,great,good
+expect realli,ALDI,2,3,5,2,3,1,0,real ##pect ##li ex,bad
+hard work make time fli,ALDI,2,4,4,2,3,4,3,time work ##i make fl,good
+worst respect,ALDI,1,1,1,1,1,1,0,respect worst,bad
+id honestli rather drown ever step foot,ALDI,1,1,1,1,1,1,0,dro ever step ##wn hon,bad
+hard work,ALDI,1,1,2,3,3,2,1,work hard,bad
+logiscitc,ALDI,1,4,5,1,1,1,4,##is ##c ##cit log,good
+hard work good money,ALDI,1,4,3,2,1,1,3,work money good hard,good
+good pay limit prospect admin,ALDI,4,4,5,2,5,4,3,pay ad prospect limit ##min,good
+aldi,ALDI,1,3,1,2,1,2,4,##di al,good
+good experi,ALDI,3,4,5,4,4,3,3,ex ##peri good,good
+pretti good,ALDI,5,4,5,3,3,4,3,good ##ti pret,good
+good graduat less option,ALDI,2,3,4,2,4,3,3,option gradu ##at less good,good
+compani good,ALDI,2,3,5,5,4,4,3,##ani good comp,good
+benefit,ALDI,1,1,1,3,3,1,4,benefit,good
+everyon,ALDI,1,2,2,3,3,1,4,##on every,good
+good compani,ALDI,4,3,3,4,2,3,3,comp ##ani good,good
+never good enough,ALDI,1,5,5,1,5,1,0,good enough never,bad
+pay,ALDI,3,3,3,1,3,2,0,pay,bad
+aldi,ALDI,1,3,3,3,1,3,4,##di al,good
+love aldi,ALDI,5,5,5,5,5,5,4,al ##di love,good
+fast pace environ,ALDI,4,3,5,4,5,4,3,pace environ fast,good
+freewil regard employe right,ALDI,1,1,1,1,1,1,4,##wil right regard employe free,good
+easi job,ALDI,2,1,3,2,2,1,3,##si job ea,good
+retail store assist,ALDI,1,1,1,1,4,1,4,store assist retail,good
+take take take,ALDI,1,2,1,1,1,1,4,take take take,good
+great,ALDI,5,5,5,5,5,5,4,great,good
+fun,ALDI,2,5,5,5,5,5,3,fun,good
+good pay hard work,ALDI,3,3,3,3,2,3,3,pay work hard good,good
+store assist,ALDI,1,2,2,3,2,1,4,assist store,good
+succes last reform havnt move,AQA,2,1,1,2,3,1,4,last move reform ##t ha,good
+student,AQA,1,2,1,1,1,1,3,student,good
+great compani,AQA,4,4,4,3,3,5,4,comp ##ani great,good
+good atmospher pay averag nice peopl,AQA,3,4,5,2,2,3,3,pe atm nice ##op aver,good
+payrol administr,AQA,5,4,3,4,3,4,4,##mini ad ##str ##rol pay,good
+great compani,AQA,4,4,4,4,4,4,4,comp ##ani great,good
+great place work,AQA,4,4,5,4,4,4,4,place work great,good
+fantast organis,AQA,5,5,3,3,4,4,0,##ast organi ##s fant,bad
+flexibl,AQA,5,4,4,4,4,4,4,##ex ##l ##ib fl,good
+great place work,AQA,5,5,5,5,5,3,4,place work great,good
+nice peopl,AQA,5,4,4,4,4,4,3,pe ##op ##l nice,good
+good work atmospher,AQA,5,4,4,5,4,4,3,work atm ##phe ##os ##r,good
+great compani work,AQA,4,5,3,3,4,3,4,comp work ##ani great,good
+asda,ASDA,3,3,3,3,3,3,3,##da as,good
+check assist,ASDA,5,5,5,5,5,5,3,assist check,good
+good place work,ASDA,5,5,5,5,5,4,3,place work good,good
+bad compani work,ASDA,1,1,3,2,2,1,0,comp work ##ani bad,bad
