@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+from transformers import BertTokenizer, BertForSequenceClassification
+import lime
+import lime.lime_text
+import numpy as np
+import pandas as pd
+import streamlit.components.v1 as components
 
 # Load the dataset
 df = pd.read_csv('newDataset.csv')
