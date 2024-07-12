@@ -1,5 +1,7 @@
 import streamlit as st
-pip install --upgrade pip
+import pandas as pd
+import numpy as np
+
 # Load the dataset
 df = pd.read_csv('newDataset.csv')
 
