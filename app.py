@@ -1,4 +1,18 @@
 import streamlit as st
+import torch
+import pickle
+from transformers import BertTokenizer, BertForSequenceClassification
+import lime
+import lime.lime_text
+import numpy as np
+import pandas as pd
+import streamlit.components.v1 as components
+
+# Load the dataset
+df = pd.read_csv('newDataset.csv')
+
+# Drop rows with 'average_predicted_sentiment' as 2
+df = df[df['average_predicted_sentiment'] != 2]
 
 # Load the model and tokenizer
 model_path = 'bert_model.pkl'
